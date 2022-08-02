@@ -1,61 +1,70 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🇨🇴𝚃𝚑𝚎 Mendez - 𝙱𝚘𝚝 😈🔮`
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/34642467703" target="blank"><img src="https://img.shields.io/badge/UNPTOADHIH15_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50499698072" target="blank"><img src="https://img.shields.io/badge/ALBERTO_ACOSTA_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986460945" target="blank"><img src="https://img.shields.io/badge/AIDEN_NOTLOGIC_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51940617554" target="blank"><img src="https://img.shields.io/badge/GATITO_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+## BOT ACTIVO 😈🇨🇴
 
-<a href="https://chat.whatsapp.com/G18HUF7pntwFgkVoMbhvs3" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
+### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
+<a href="https://wa.me/message/W6GFE5ERA6U4I1" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+> ESTE NUMERO ES DEL BOT Y DEL ADMIN TRATAREMOS DE
+RESPONDER A TU INQUIETUD 
 
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg)
+`Sígueme en Youtube para actualizaciones de el bot
+Y mucho mas`
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+![img](https://github.com/thechoute/Baby-Ofc/blob/main/media/pornhub.jpg)
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+### `—◉ ✨ DONAR PARA MEJORAS✨`
+
+`proximamente paypal`
+
+
 ```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
+     INFORMACIÓN 🇨🇴🇨🇴🇨🇴
+> NUESTRO BOT SE ENCUENTRA EN MANTENIMIENTO 
+> SE RECOMIENDA NO USARLO HASTA PREVIO AVISO!
+> 
+> 
+ADVERTENCIAS: 
 ```
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+### `—◉ ⚙️ AJUSTES E INFORMACIÓN ⚙️`
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾`
+-✅ DEBE DE TENER A SU DISPOSICIÓN: 
+
+*  Conexión estable de Internet
+*  Application termux (actualizada)
+*  Un número disponible para el BOT
+*  Necesitas un número especial para el bot?
+Escríbeme al WhatsApp pv 
+
+-
+
+
+### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
-> yarn install 
-> npm update
-> npm start
+>termux-setup-storage
+>apt update 
+>pkg upgrade 
+>pkg install git -y
+>pkg install nodejs -y
+>pkg install ffmpeg -y
+>pkg install imagemagick -y
+>pkg install yarn
+>git clone https://github.com/MENDEZITO150/Bot-MZ2006
+>cd Bot-MZ2006
+>npm install
+>yarn install 
+>npm update
+>npm start
 ```
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd Bot-MZ2006
 > npm start
 ```
 
@@ -63,45 +72,36 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd Bot-MZ2006
 > rm -rf session.data.json
 > npm start
 ```
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
-<p>> Pagina Oficial:
-<a href="https://boxmineworld.com">https://boxmineworld.com</a>
-<p>> Dashboard:
-<a href="https://dash.boxmineworld.com/home">https://dash.boxmineworld.com/home</a>
-<p>> Panel:
-<a href="https://panel.boxmineworld.com">https://panel.boxmineworld.com</a>
-<p>> Tutorial:
-<a href="https://youtu.be/eC9TfKICpcY">https://youtu.be/eC9TfKICpcY</a>
-<p>> Dudas UNICAMENTE SOBRE EL HOST:
-<a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
-</p>
-  
-### `—◉ 💥 ACTIVAR EN ACIDICNODES 💥`
-<a href="https://billing.acidicnodes.ml/register?ref=ADII104p"><img src="https://billing.acidicnodes.ml/storage/icon.png" width="100" height="100" alt="acidicnodes"/></a>
+# 
+
 
 ### `—◉ 📝 NOTAS 📝`
 ```bash
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
+- ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
+- REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
+- PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WhatsApp 
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- THE SHADOW BROKERS - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
+- EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
+- SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 
-## `COLABORADORES DEL BOT` 
-<a href="https://github.com/unptoadrih15"><img src="https://github.com/unptoadrih15.png" width="200" height="200" alt="unptoadrih15"/></a>
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="200" height="200" alt="ALBERTO9883"/></a>
-<a href="https://github.com/ferhacks"><img src="https://github.com/ferhacks.png" width="200" height="200" alt="ferhacks"/></a>
-<a href="https://github.com/g4tito"><img src="https://github.com/g4tito.png" width="200" height="200" alt="g4tito"/></a>
-
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-<a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="300" height="300" alt="BrunoSobrino"/></a>
+HOLA ME LLAMO JHON MENDEZ SUB EDITOR DE ESTE BOT 
+LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
+POR APOYARME EN ESTO <3
 
-`TheMystic-Bot-MD _ By Bruno Sobrino`
+![img](https://imgur.com/aqyI6wx.png)
+
+`ThE Botmendez2006__________ By Jhon Méndez`
+
+### 🌟 AGRADECIMIENTOS <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+
+   [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
