@@ -5,14 +5,14 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
-  ['50499698072', '👑 Mystic - Collaborator 2 👑', true],
-  ['51940617554', '👑 Mystic - Collaborator 3 👑', true],
-  ['5219992095479'],
-  ['5219991402134'],
-  ['5219993404349'],
-  ['5219996125657']
+  ['', '👑 тнє вღт_мZ2006 - Creador 👑', true],
+  ['522294815527', '👑 тнє вღт_мZ2006 - Collaborator 1 👑', true],
+  ['1(510)920-8077', '👑 тнє вღт_мZ2006 - Bot_mz 👑', true],
+  ['', '👑 тнє вღт_мZ2006 - Collaborator 2 👑', true],
+  [''],
+  [''],
+  [''],
+  ['']
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -70,11 +70,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.packname = '(☞ﾟ∀ﾟ)☞тнє вღт_мZ2006'
+global.author = '★ тнє вღт_мZ2006- 𝙱𝚘𝚝★'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '★тнє вღт_мZ2006 - 𝙱𝚘𝚝★'
+global.igfg = '★тнє вღт_мZ2006 - 𝙱𝚘𝚝★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
