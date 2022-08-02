@@ -1,6 +1,6 @@
 # `🇨🇴𝚃𝚑𝚎 Mendez - 𝙱𝚘𝚝 😈🔮`
 
-## BOT ACTIVO 😈🇨🇴
+## BOT EN ACTUALIZACION 😈🇨🇴
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="https://wa.me/message/W6GFE5ERA6U4I1" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -52,8 +52,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 >pkg install ffmpeg -y
 >pkg install imagemagick -y
 >pkg install yarn
->git clone https://github.com/MENDEZITO150/Bot-MZ2006
->cd Bot-MZ2006
+>git clone 
+>cd 
 >npm install
 >yarn install 
 >npm update
@@ -64,7 +64,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Bot-MZ2006
+> cd 
 > npm start
 ```
 
@@ -72,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Bot-MZ2006
+> cd 
 > rm -rf session.data.json
 > npm start
 ```
