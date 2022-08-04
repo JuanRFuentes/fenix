@@ -14,7 +14,7 @@ global.owner = [
   [''],
   ['']
 ] // Cambia los numeros que quieras
-global.mods = [573236191090] 
+global.mods = [] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
