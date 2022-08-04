@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['', '👑 тнє вღт_мZ2006 - Creador 👑', true],
+  ['573236191090', '👑 тнє вღт_мZ2006 - Creador 👑', true],
   ['522294815527', '👑 тнє вღт_мZ2006 - Collaborator 1 👑', true],
   ['1(510)920-8077', '👑 тнє вღт_мZ2006 - Bot_mz 👑', true],
   ['', '👑 тнє вღт_мZ2006 - Collaborator 2 👑', true],
@@ -14,7 +14,7 @@ global.owner = [
   [''],
   ['']
 ] // Cambia los numeros que quieras
-global.mods = [] 
+global.mods = [573236191090] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
