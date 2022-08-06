@@ -23,7 +23,7 @@ grupo soporte del bot unirse<>
 
 *9.-* 
 
-*10.-* https://chat.whatsapp.com/C2WYb1hiiijCI13QSUZLM9
+*10.-* 
 `.trim(), wm, media, [['💟 𝙼𝙴𝙽𝚄 𝙿𝚁𝙸𝙽𝙲𝙸𝙿𝙰𝙻 💟', '#menu']], m)
 handler.command = /^linkgc|grupos$/i
 export default handler
