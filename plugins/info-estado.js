@@ -7,7 +7,7 @@ setTimeout(resolve, 1000) }) * 1000}
 let uptime = clockString(_uptime)
 let texto = `${uptime}`
 let fakemsg = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "17608914335-1625305606@g.us" } : {}) }, message: { "extendedTextMessage": { "text":`Activo por ${texto}`, "title": 'Kitzia-MD', 'jpegThumbnail': false}}}
-conn.reply(m.chat, `HOLA ESTE ES MI RECORD DE TIEMPO ACTIVO!ERES LA MEJOR PERSONA`, fakemsg)}
+conn.reply(m.chat, `𝕳𝖔𝖑𝖆 𝖊𝖘𝖙𝖊 𝖊𝖘 𝖊𝖑 𝖙𝖎𝖊𝖒𝖕𝖔 𝖉𝖊𝖑 𝖇𝖔𝖙 𝖆𝖈𝖙𝖎𝖛𝖔 <𝕲𝖗𝖆𝖈𝖎𝖆𝖘 𝖕𝖔𝖗 𝖆𝖕𝖔𝖞𝖆𝖗 𝖒𝖎 𝖇𝖔𝖙>`, fakemsg)}
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 export default handler
 
