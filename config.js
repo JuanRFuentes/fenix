@@ -14,8 +14,8 @@ global.owner = [
   ['52149'],
   ['525657']
 ] // Cambia los numeros que quieras
-global.suittag = ['5219993404349'] 
-global.mods = [] 
+global.suittag = ['527228861903'] 
+global.mods = [527228861903] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
