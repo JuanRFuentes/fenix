@@ -492,7 +492,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.paypal.me/TheShadowBrokers133', '𝙿𝙰𝚈𝙿𝙰𝙻', 'https://github.com/JHONMENDEZ2006/Bot_mz2006_v2', '𝙶𝙸𝚃𝙷𝚄𝙱', [
+conn.sendHydrated2(m.chat, str, wm, pp, 'No disponible xd', '𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒', 'https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg', '𝐘𝐨𝐮𝐭𝐮𝐛𝐞', [
 ['🖤 𝙳𝙾𝙽𝙰𝚁 🖤', '/donasi'],
 ['🇨🇴 𝙾𝚆𝙽𝙴𝚁 🇨🇴', '/owner'],
 ['ツ 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 ツ', '/infobot']
