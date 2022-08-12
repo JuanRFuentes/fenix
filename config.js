@@ -6,16 +6,16 @@ import fs from 'fs'
 
 global.owner = [
   ['527228861903', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Creador 👑', true],
-  ['343', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 1 👑', true],
-  ['5072', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 2 👑', true],
-  ['51', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 3 👑', true],
-  ['52'],
-  ['5214'],
-  ['52149'],
-  ['525657']
+  ['', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 1 👑', true],
+  ['', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 2 👑', true],
+  ['', '👑 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - Collaborator 3 👑', true],
+  [''],
+  [''],
+  [''],
+  ['']
 ] // Cambia los numeros que quieras
 global.suittag = ['527228861903'] 
-global.mods = [527228861903] 
+global.mods = [] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
