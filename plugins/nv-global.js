@@ -201,6 +201,11 @@ if (chat.audios && m.text.match(/(Yamete|yamete|Yamete kudasai|yamete kudasai)/g
 let vn = './media/Yamete-kudasai.mp3'
 this.sendPresenceUpdate('recording', m.chat)   
 this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
-   
+ 
+if (chat.audios && m.text.match(/(Quedatee|Quedatee)/gi)) {
+let vn = './media/Quedatee.mp3'
+this.sendPresenceUpdate('recording', m.chat)   
+this.sendFile(m.chat, vn, 'error.mp3', null, m, true, {type: 'audioMessage', ptt: true})}
+      
 return !0 }
 export default handler
